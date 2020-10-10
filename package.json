@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/kamara-moses/Mocket/issues"
   },
-  "homepage": "https://github.com/kamara-moses/Mocket#readme"
+  "homepage": "https://github.com/kamara-moses/Mocket#readme",
+  "dependencies": {
+    "sequelize": "^6.3.5"
+  }
 }
